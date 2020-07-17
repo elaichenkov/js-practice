@@ -1,7 +1,7 @@
 {
   "name": "js-practice",
   "version": "1.0.0",
-  "description": "javascript practice, exercise, leetcode, hackerrank, codewars",
+  "description": "javascript practice, learning, exercise, leetcode, hackerrank, codewars",
   "main": "index.js",
   "scripts": {
     "lint:prettier": "prettier \"**/*.{md,js}\" --write"
@@ -13,6 +13,7 @@
   "keywords": [
     "js",
     "javascript",
+    "learning",
     "leetcode",
     "codewars",
     "hackerrank",
