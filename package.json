@@ -1,0 +1,30 @@
+{
+  "name": "js-practice",
+  "version": "1.0.0",
+  "description": "javascript practice, exercise, leetcode, hackerrank, codewars",
+  "main": "index.js",
+  "scripts": {
+    "lint:prettier": "prettier \"**/*.{md,js}\" --write"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elaichenkov/js-practice.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "leetcode",
+    "codewars",
+    "hackerrank",
+    "practice"
+  ],
+  "author": "Yevhen Laichenkov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elaichenkov/js-practice/issues"
+  },
+  "homepage": "https://github.com/elaichenkov/js-practice#readme",
+  "devDependencies": {
+    "prettier": "^2.0.5"
+  }
+}
